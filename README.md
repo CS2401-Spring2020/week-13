@@ -19,8 +19,8 @@ Your class should have the following constructors:
 * `myStack()` -- created a new instance so `data.length == 10`.
 
 You class will have the following methods:
-* `public boolean push(String s)` -- pushes an element into the StackQueue at `top` and increments the pointer. If `top` is out of bound and the element cannot be inserted return false, otherwise return true. 
-* `public String pop()` -- pops the top element in the data structure (i.e. the one at `end-1`) and updates the value of `end`. Return `null` if no elements are in the `StackQueue`. 
+* `public boolean push(String s)` -- pushes an element into the stack at `top` and increments the pointer. If `top` is out of bound and the element cannot be inserted return false, otherwise return true. 
+* `public String pop()` -- pops the top element in the data structure (i.e. the one at `end-1`) and updates the value of `end`. Return `null` if no elements are in the stack. 
 
 ### `myQueue`
 Your class should contain the following elements:
