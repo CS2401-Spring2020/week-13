@@ -33,7 +33,7 @@ Your class should have the following constructors:
 * `myQueue()` -- created a new instance so `data.length == 10`.
 
 You class will have the following methods:
-* `public bool enqueue(String s)` -- adds `s` to the end of the queue and increments `numElements`. The location to insert the element will be determined based on the position of `front` and the value `numElements` (you will need to use modulus, `%`). This method returns `true` if the element is added, and `false` if the element cannot be added because the queue is full. 
+* `public boolean enqueue(String s)` -- adds `s` to the end of the queue and increments `numElements`. The location to insert the element will be determined based on the position of `front` and the value `numElements` (you will need to use modulus, `%`). This method returns `true` if the element is added, and `false` if the element cannot be added because the queue is full. 
 * `public String dequeue()` -- dequeues the front element in the data structure (i.e. the one at `front`) and updates the value of `front`. Returns `null` if there is nothing to dequeue.
 
 ### both `myStack` and `myQueue`
