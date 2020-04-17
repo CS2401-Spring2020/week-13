@@ -2,7 +2,7 @@
 
 You will build both stacks and queues. 
 You will use an array as your storage container for a set of `String`s, and your classes `myStack` and `myQueue` will be given a size limit when they are constructed. 
-For a refresher about stacks and queues and thier implementation using arrays see the Stacks and Queues playlist on YouTube
+For a refresher about stacks and queues and thier implementation using arrays see the Stacks and Queues playlist on [YouTube](https://www.youtube.com/playlist?list=PLG9iEq01LJPVOyIMy7w_WBgqHsIksh2U0).<br/>
 [![Watch the playlist](images/video.gif)](https://www.youtube.com/playlist?list=PLG9iEq01LJPVOyIMy7w_WBgqHsIksh2U0)
 
 ## What to build
