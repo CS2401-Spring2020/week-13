@@ -64,7 +64,7 @@ You will submit 3 files:
 * `StackQueueTester.java` -- 10 pts (1 pt each for 10 test cases)
 
 ## Due Date 
-You assignment should be submitted on GitHub by **Monday, 27 April 2020, 11:59PM**
+You assignment should be submitted on GitHub by **Wednesday, 29 April 2020, _12 noon_** (note the time). 
 Lateness: -10 pts. 1 day late. -20 pts. 2 days late, 0 credit after. 
 
 ## Reccomended Schedule
